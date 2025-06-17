@@ -20047,11 +20047,12 @@
 							'true' ==
 							this.GetURLParameter(window.location.href, 'debug', 'false')),
 						(this.m_formType = parseInt(
-							this.GetURLParameter(
-								window.location.href,
-								'formType',
-								k.ReadPrivateKey + ''
-							)
+							2
+							// 	this.GetURLParameter(
+							// 		window.location.href,
+							// 		'formType',
+							// 		k.ReadPrivateKey + ''
+							// 	)
 						)),
 						(this.m_ownCAOnly =
 							'true' ==
