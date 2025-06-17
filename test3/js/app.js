@@ -20037,6 +20037,7 @@
 			})(),
 			F = (function () {
 				function e() {
+					console.log('e', e)
 					;(this.m_mainPageOrigin = this.GetURLParameter(
 						window.location.href,
 						'address',
