@@ -3,12 +3,12 @@
     <fonts>
         <font>
             <name>eUkraine</name>
-            <path>fonts/e-Ukraine-Regular.ttf</path>
+            <path>fonts/e-Ukraine-Regular.otf</path>
             <style>normal</style>
         </font>
         <font>
             <name>eUkraineHead</name>
-            <path>fonts/e-UkraineHead-Regular.ttf</path>
+            <path>fonts/e-UkraineHead-Regular.otf</path>
             <style>normal</style>
         </font>
     </fonts>
