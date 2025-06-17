@@ -20047,7 +20047,7 @@
 							'true' ==
 							this.GetURLParameter(window.location.href, 'debug', 'false')),
 						(this.m_formType = parseInt(
-							2
+							3
 							// 	this.GetURLParameter(
 							// 		window.location.href,
 							// 		'formType',
