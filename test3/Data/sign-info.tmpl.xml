@@ -3,7 +3,7 @@
     <fonts>
         <font>
             <name>eUkraine</name>
-            <path>fonts/e-Ukraine-Regular.otf</path>
+            <path>fonts/e-Ukraine-Regular.ttf</path>
             <style>normal</style>
         </font>
         <font>
