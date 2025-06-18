@@ -20037,7 +20037,6 @@
 			})(),
 			F = (function () {
 				function e() {
-					console.log('e', e)
 					;(this.m_mainPageOrigin = this.GetURLParameter(
 						window.location.href,
 						'address',
@@ -20352,7 +20351,6 @@
 								t = 3
 						}
 						this.m_curStep = t
-						console.log('this.m_maxSteps', this.m_maxSteps)
 						this.m_maxSteps = 4
 						var n = s.format(p(o.LABEL_STEP), t, this.m_maxSteps)
 						$('#stepLabel').text(n)
@@ -20392,7 +20390,6 @@
 							.click()
 					}),
 					(e.prototype.GetMaxSteps = function () {
-						console.log('this.m_formType', this.m_formType)
 						switch (this.m_formType) {
 							case k.MakeNewCertificate:
 								return 3
